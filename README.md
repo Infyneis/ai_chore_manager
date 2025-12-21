@@ -282,6 +282,7 @@ Ask the AI for tips on any chore:
 ### 📊 Smart Prioritization
 
 The AI considers:
+
 - ⏰ Due dates (urgency)
 - 🔢 Priority levels
 - 🔗 Dependencies (shopping before cooking)
@@ -290,6 +291,7 @@ The AI considers:
 ### ⚖️ Workload Balancing
 
 The AI analyzes:
+
 - 📊 Chore count per person
 - ⏱️ Estimated time totals
 - 💪 Difficulty distribution
