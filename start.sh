@@ -17,7 +17,6 @@
 # ║   Usage: ./start.sh                                                       ║
 # ║                                                                           ║
 # ║   Author: Samy DJEMILI                                                    ║
-# ║   Project: #9/365 - Year Coding Challenge                                 ║
 # ║                                                                           ║
 # ╚═══════════════════════════════════════════════════════════════════════════╝
 

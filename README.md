@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">🏠 AI Chore Manager</h1>
-<h3 align="center">Smart household chore management with AI-powered prioritization <code>#9/365 - Year Coding Challenge</code></h3>
+<h3 align="center">Smart household chore management with AI-powered prioritization</h3>
 
 <p align="center">
   <em>Let AI organize your household tasks, balance workloads, and give you tips for efficient cleaning</em>
@@ -35,7 +35,6 @@
 A modern **AI-powered chore management** application for households. Manage family members, assign chores, and let the AI help you prioritize tasks, balance workloads, and provide tips for efficient completion. Features a beautiful purple-themed UI with Shadcn components.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🚀_Year_Coding_Challenge-Project_%239-8B5CF6?style=for-the-badge" alt="Year Coding Challenge" />
   <img src="https://img.shields.io/badge/📅_Completed-December_21,_2024-A78BFA?style=for-the-badge" alt="Completed" />
   <img src="https://img.shields.io/badge/🎨_Theme-Purple_Modern-7C3AED?style=for-the-badge" alt="Theme" />
 </p>
